@@ -46,7 +46,7 @@ The project is structured as a state machine (a "graph") where each step is a "n
 
     Bash
 
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/your-username/your-repository-name.git   
     cd your-repository-name
 
 2. Install dependencies:
@@ -83,4 +83,5 @@ More Granular Categories: Expand the classification to include more specific dep
 
 Web Interface: Build a simple web UI using a framework like Flask or Streamlit to make the agent more accessible.
 
-![Hospital Logo](images/hospital.png)
+![Hospital Logo](hospital.png)
+
